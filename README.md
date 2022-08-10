@@ -1,4 +1,4 @@
-# shop_app
+# SHOOP APP
 
 
 Today I bring you a little more of what I am developing in flutter.
@@ -24,11 +24,11 @@ Contains the general exceptions of any application. (exception @, very short pas
 
 ![GIF](https://github.com/edwromero/Shop_app/blob/main/gif_largo.gif).
 
-# This video shows that when you enter with another user than admin, you do not get access to the products for editing and since you are a new user. You have no set order.
+### This video shows that when you enter with another user than admin, you do not get access to the products for editing and since you are a new user. You have no set order.
 
 ![GIF](https://github.com/edwromero/Shop_app/blob/main/gif_usuario.gif).
 
-# Here we see the error handling in general, the list of favorites and the expiration of the start token (preconfigured especially for the demo).
+### Here we see the error handling in general, the list of favorites and the expiration of the start token (preconfigured especially for the demo).
 
 ![GIF](https://github.com/edwromero/Shop_app/blob/main/gif_error.gif).
 
