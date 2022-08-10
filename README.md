@@ -1,16 +1,45 @@
 # shop_app
 
-A new Flutter project.
 
-## Getting Started
+Today I bring you a little more of what I am developing in flutter.
 
-This project is a starting point for a Flutter application.
+In this practice I made an interface of a shop app! connected with Firebase. It's fully functional and you can get my code on github and check it out. You only need a basic configuration and you will shoot the project without much problem.
+Characteristics of what is applied in the video:
 
-A few resources to get you started if this is your first Flutter project:
+# Login screen, with registration included in the database.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Transition animations.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Differentiation between admin user and common user.
+
+# Added shopping cart.
+
+# Order screen.
+
+# New product display.
+
+# Logout button.
+
+# Auto Logout via token.
+
+# Automatic login validation through token.
+
+# Basic form for product registration.
+
+# Addition of favorites button and favorites screen.
+
+# Treatment of errors in general, both for screens for registration of products and login. 
+Contains the general exceptions of any application. (exception @, very short password, without .com, etc).
+
+#Slider to delete product. Alert to undo product added in the cart (bottom of the application)
+
+
+video 1
+This video shows that when you enter with another user than admin, you do not get access to the products for editing and since you are a new user. You have no set order.
+video 2
+Here we see the error handling in general, the list of favorites and the expiration of the start token (preconfigured especially for the demo).
+video 3
+
+***************************IMPORTANT******************************
+
+Remember this is not a final product, it is just a sample of my knowledge and studies in the area. #github #project #video #database #firebase #flutter #dart #android
